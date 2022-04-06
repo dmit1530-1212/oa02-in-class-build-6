@@ -8,6 +8,7 @@ The student is to complete the following after the instructor finished that port
 *  The layout of the last section must be completed using the Bootstrap 12 column grid system correctly.
 *  Validate your markup.
 *  If you have everything required for the lab you are free to add other Bootstrap styling and/or JavaScript if you want to experiment. Must meet the general overall styling first.
+*  **DO NOT modify the supplied svg!**
 
 >> **You must be present in class in order to receive a grade for this assessment.**
 >> **Labs that do not follow best naming practices, do not validate, or are not a repo version with a clean working tree will receive a 0.**
